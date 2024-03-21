@@ -21,7 +21,7 @@ The File Processor project is a practical coding challenge for back-end developm
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/s-killer/-File-Processor-Assignment
    ```
 
 2. Navigate to the project directory:
