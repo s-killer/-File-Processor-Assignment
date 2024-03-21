@@ -58,7 +58,7 @@ An example output CSV file (`expected_output/expected_result.csv`) is provided t
 
 ## Author
 
-[Keval Thakkar]
+Keval Thakkar
 
 ## License
 
