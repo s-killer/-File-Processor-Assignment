@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+env_bak/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# macOS
+.DS_Store
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Dependency directories
+pip-wheel-metadata/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
